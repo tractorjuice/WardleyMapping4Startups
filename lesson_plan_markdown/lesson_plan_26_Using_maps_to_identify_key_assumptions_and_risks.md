@@ -1,20 +1,22 @@
 # Using Wardley Maps to Identify Key Assumptions and Risks in Startups
 
-**Duration:** 3 hours
-**Grade Level:** N/A
+**Duration:** 3 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': "Create a Wardley Map to visualize a startup's value chain and strategic positioning", 'bloom_level': 'Create'}
-- {'objective': 'Analyze a Wardley Map to identify key assumptions and potential risks in a business model', 'bloom_level': 'Analyze'}
-- {'objective': 'Design experiments to validate or invalidate critical assumptions using lean startup principles', 'bloom_level': 'Create'}
-- {'objective': 'Evaluate the results of assumption testing to refine business strategies', 'bloom_level': 'Evaluate'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Create a Wardley Map to visualize a startup's value chain and strategic positioning | Create |
+| Analyze a Wardley Map to identify key assumptions and potential risks in a business model | Analyze |
+| Design experiments to validate or invalidate critical assumptions using lean startup principles | Create |
+| Evaluate the results of assumption testing to refine business strategies | Evaluate |
 
 ## Materials Needed
-- Whiteboard or large paper sheets
-- Markers
-- Sticky notes
-- Laptops or tablets for online research
-- Wardley Mapping software or templates
+* Whiteboard or large paper sheets
+* Markers
+* Sticky notes
+* Laptops or tablets for online research
+* Wardley Mapping software or templates
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -63,19 +65,19 @@
 **Resources Used:** Peer evaluation rubric, reflection prompts
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of learner participation and engagement during mapping and assumption identification activities.', 'alignment': 'Assesses ability to create and analyze Wardley Maps in real-time.'}
-- {'type': 'Summative', 'description': 'Evaluation of final Wardley Maps, identified assumptions, and experimental designs.', 'alignment': 'Assesses comprehensive understanding and application of key concepts to professional scenarios.'}
+* **Formative**: Observation of learner participation and engagement during mapping and assumption identification activities. (Alignment: Assesses ability to create and analyze Wardley Maps in real-time.)
+* **Summative**: Evaluation of final Wardley Maps, identified assumptions, and experimental designs. (Alignment: Assesses comprehensive understanding and application of key concepts to professional scenarios.)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice startup founders', 'strategies': 'Provide additional guidance on basic business concepts and simplified Wardley Mapping templates.'}
-- {'learner_group': 'Experienced business strategists', 'strategies': 'Offer more complex scenarios and encourage deeper analysis of market dynamics and competitive positioning.'}
+* **Novice startup founders**: Provide additional guidance on basic business concepts and simplified Wardley Mapping templates.
+* **Experienced business strategists**: Offer more complex scenarios and encourage deeper analysis of market dynamics and competitive positioning.
 
 ## Extension Activities
-- Create a Wardley Map for their own startup or a project within their organization
-- Conduct a full Assumption Mapping Workshop with their team
-- Develop a long-term strategy for continuous assumption testing and business model refinement
+* Create a Wardley Map for their own startup or a project within their organization
+* Conduct a full Assumption Mapping Workshop with their team
+* Develop a long-term strategy for continuous assumption testing and business model refinement
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Case studies of successful startups using Wardley Mapping and lean methodologies
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Case studies of successful startups using Wardley Mapping and lean methodologies

@@ -1,19 +1,21 @@
 # Anticipating Future Trends and Disruptions with Wardley Mapping
 
-**Duration:** 4 hours
-**Grade Level:** N/A
+**Duration:** 4 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': 'Analyze a business ecosystem using Wardley Mapping to identify potential future trends and disruptions', 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate weak signals in a Wardley Map to anticipate emerging technologies and market shifts', 'bloom_level': 'Evaluating'}
-- {'objective': 'Create a strategy for a startup based on insights derived from a Wardley Map', 'bloom_level': 'Creating'}
-- {'objective': 'Apply best practices for using Wardley Mapping in ongoing trend anticipation and strategic planning', 'bloom_level': 'Applying'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze a business ecosystem using Wardley Mapping to identify potential future trends and disruptions | Analyzing |
+| Evaluate weak signals in a Wardley Map to anticipate emerging technologies and market shifts | Evaluating |
+| Create a strategy for a startup based on insights derived from a Wardley Map | Creating |
+| Apply best practices for using Wardley Mapping in ongoing trend anticipation and strategic planning | Applying |
 
 ## Materials Needed
-- Laptops or tablets with internet access
-- Wardley Mapping software or large sheets of paper and markers
-- Case study materials
-- Handouts on Wardley Mapping principles
+* Laptops or tablets with internet access
+* Wardley Mapping software or large sheets of paper and markers
+* Case study materials
+* Handouts on Wardley Mapping principles
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -62,22 +64,22 @@
 **Resources Used:** Presentation rubric, peer evaluation forms
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of Wardley Map creation and analysis during Explore and Elaborate phases', 'alignment': 'Assesses ability to apply Wardley Mapping concepts in real-time'}
-- {'type': 'Summative', 'description': 'Group presentation of strategic insights derived from Wardley Mapping', 'alignment': 'Evaluates ability to synthesize learning into actionable business strategies'}
-- {'type': 'Summative', 'description': 'Individual reflection paper on applying Wardley Mapping to their startup', 'alignment': 'Assesses deep understanding and ability to apply concepts to specific business contexts'}
+* **Formative**: Observation of Wardley Map creation and analysis during Explore and Elaborate phases (Alignment: Assesses ability to apply Wardley Mapping concepts in real-time)
+* **Summative**: Group presentation of strategic insights derived from Wardley Mapping (Alignment: Evaluates ability to synthesize learning into actionable business strategies)
+* **Summative**: Individual reflection paper on applying Wardley Mapping to their startup (Alignment: Assesses deep understanding and ability to apply concepts to specific business contexts)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice strategists', 'strategies': 'Provide simplified Wardley Map templates, offer additional guidance on map creation'}
-- {'learner_group': 'Experienced executives', 'strategies': 'Offer more complex scenarios, encourage mentoring of less experienced participants'}
-- {'learner_group': 'Technical founders', 'strategies': 'Focus on deep dives into technological evolution aspects of Wardley Mapping'}
-- {'learner_group': 'Non-technical founders', 'strategies': 'Emphasize market and ecosystem aspects, provide additional tech trend resources'}
+* **Novice strategists**: Provide simplified Wardley Map templates, offer additional guidance on map creation
+* **Experienced executives**: Offer more complex scenarios, encourage mentoring of less experienced participants
+* **Technical founders**: Focus on deep dives into technological evolution aspects of Wardley Mapping
+* **Non-technical founders**: Emphasize market and ecosystem aspects, provide additional tech trend resources
 
 ## Extension Activities
-- Create a 5-year strategic plan based on Wardley Mapping insights
-- Conduct a Wardley Mapping exercise with their entire team
-- Develop a trend monitoring system based on weak signals identified
+* Create a 5-year strategic plan based on Wardley Mapping insights
+* Conduct a Wardley Mapping exercise with their entire team
+* Develop a trend monitoring system based on weak signals identified
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Industry-specific trend reports and forecasts
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Industry-specific trend reports and forecasts

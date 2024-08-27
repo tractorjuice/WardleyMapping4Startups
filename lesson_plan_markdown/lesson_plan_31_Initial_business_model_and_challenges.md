@@ -1,19 +1,21 @@
 # Leveraging Wardley Mapping for Business Model Innovation
 
-**Duration:** 3 hours
-**Grade Level:** N/A
+**Duration:** 3 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': "Analyze a startup's initial business model and challenges using Wardley Mapping", 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate the effectiveness of Wardley Mapping in identifying pivot opportunities', 'bloom_level': 'Evaluating'}
-- {'objective': 'Create a Wardley Map for a given business scenario', 'bloom_level': 'Creating'}
-- {'objective': 'Propose strategic pivots based on insights from Wardley Mapping', 'bloom_level': 'Creating'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze a startup's initial business model and challenges using Wardley Mapping | Analyzing |
+| Evaluate the effectiveness of Wardley Mapping in identifying pivot opportunities | Evaluating |
+| Create a Wardley Map for a given business scenario | Creating |
+| Propose strategic pivots based on insights from Wardley Mapping | Creating |
 
 ## Materials Needed
-- Whiteboard or digital collaboration tool
-- Wardley Mapping templates
-- Case study materials
-- Laptops or tablets for participants
+* Whiteboard or digital collaboration tool
+* Wardley Mapping templates
+* Case study materials
+* Laptops or tablets for participants
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -62,19 +64,19 @@
 **Resources Used:** Assessment rubric, reflection prompts
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of group discussions and map creation process', 'alignment': 'Assesses ability to apply Wardley Mapping concepts in real-time'}
-- {'type': 'Summative', 'description': 'Creation of a Wardley Map and pivot proposal for a given business scenario', 'alignment': 'Evaluates comprehensive understanding and application of learned concepts'}
+* **Formative**: Observation of group discussions and map creation process (Alignment: Assesses ability to apply Wardley Mapping concepts in real-time)
+* **Summative**: Creation of a Wardley Map and pivot proposal for a given business scenario (Alignment: Evaluates comprehensive understanding and application of learned concepts)
 
 ## Differentiation Strategies
-- {'learner_group': 'Experienced strategists', 'strategies': 'Provide more complex scenarios and encourage deeper analysis of market dynamics'}
-- {'learner_group': 'Novice entrepreneurs', 'strategies': 'Offer additional guidance on business model components and mapping basics'}
+* **Experienced strategists**: Provide more complex scenarios and encourage deeper analysis of market dynamics
+* **Novice entrepreneurs**: Offer additional guidance on business model components and mapping basics
 
 ## Extension Activities
-- Apply Wardley Mapping to participants' own business challenges
-- Conduct a mini-research project on successful pivots in their industry
-- Create a Wardley Map-based presentation for stakeholders
+* Apply Wardley Mapping to participants' own business challenges
+* Conduct a mini-research project on successful pivots in their industry
+* Create a Wardley Map-based presentation for stakeholders
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Case studies of successful pivots in various industries
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Case studies of successful pivots in various industries

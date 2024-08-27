@@ -1,20 +1,22 @@
 # Mapping the Value Chain for Your Startup: A Wardley Mapping Approach
 
-**Duration:** 4 hours
-**Grade Level:** N/A
+**Duration:** 4 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': "Create a comprehensive Wardley Map for a startup's value chain", 'bloom_level': 'Create'}
-- {'objective': 'Analyze a Wardley Map to identify strategic insights and opportunities for innovation', 'bloom_level': 'Analyze'}
-- {'objective': 'Evaluate the strategic implications of component positioning and dependencies in a Wardley Map', 'bloom_level': 'Evaluate'}
-- {'objective': 'Apply Wardley Mapping principles to real-world startup scenarios', 'bloom_level': 'Apply'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Create a comprehensive Wardley Map for a startup's value chain | Create |
+| Analyze a Wardley Map to identify strategic insights and opportunities for innovation | Analyze |
+| Evaluate the strategic implications of component positioning and dependencies in a Wardley Map | Evaluate |
+| Apply Wardley Mapping principles to real-world startup scenarios | Apply |
 
 ## Materials Needed
-- Whiteboard or digital collaborative platform
-- Sticky notes or digital equivalent
-- Markers or digital drawing tools
-- Laptops or tablets for research and documentation
-- Sample Wardley Maps for reference
+* Whiteboard or digital collaborative platform
+* Sticky notes or digital equivalent
+* Markers or digital drawing tools
+* Laptops or tablets for research and documentation
+* Sample Wardley Maps for reference
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -63,22 +65,22 @@
 **Resources Used:** Presentation tools, peer evaluation rubrics
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Ongoing observation and feedback during map creation process', 'alignment': 'Aligns with the objective of creating a comprehensive Wardley Map, providing real-time guidance and correction'}
-- {'type': 'Summative', 'description': 'Evaluation of final Wardley Maps and strategic analysis presentations', 'alignment': 'Assesses ability to create, analyze, and derive strategic insights from Wardley Maps, directly tied to learning objectives'}
-- {'type': 'Peer Assessment', 'description': 'Structured peer review of Wardley Maps and strategic insights', 'alignment': 'Encourages critical thinking and analysis skills, aligns with objectives of evaluating strategic implications'}
+* **Formative**: Ongoing observation and feedback during map creation process (Alignment: Aligns with the objective of creating a comprehensive Wardley Map, providing real-time guidance and correction)
+* **Summative**: Evaluation of final Wardley Maps and strategic analysis presentations (Alignment: Assesses ability to create, analyze, and derive strategic insights from Wardley Maps, directly tied to learning objectives)
+* **Peer Assessment**: Structured peer review of Wardley Maps and strategic insights (Alignment: Encourages critical thinking and analysis skills, aligns with objectives of evaluating strategic implications)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice entrepreneurs', 'strategies': 'Provide additional scaffolding, simplified examples, and more guided practice in map creation'}
-- {'learner_group': 'Experienced business strategists', 'strategies': 'Offer more complex scenarios, encourage deeper analysis of ecosystem dynamics and future evolution'}
-- {'learner_group': 'Industry-specific professionals', 'strategies': 'Provide industry-specific examples and encourage application to unique sector challenges'}
+* **Novice entrepreneurs**: Provide additional scaffolding, simplified examples, and more guided practice in map creation
+* **Experienced business strategists**: Offer more complex scenarios, encourage deeper analysis of ecosystem dynamics and future evolution
+* **Industry-specific professionals**: Provide industry-specific examples and encourage application to unique sector challenges
 
 ## Extension Activities
-- Create Wardley Maps for competitors and compare with own startup
-- Develop a series of maps showing potential future states of the industry
-- Use Wardley Maps to guide a strategic planning session for the next quarter
+* Create Wardley Maps for competitors and compare with own startup
+* Develop a series of maps showing potential future states of the industry
+* Use Wardley Maps to guide a strategic planning session for the next quarter
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping community forums and resources
-- Case studies of successful startups using Wardley Mapping
-- Wardley Mapping software tools and tutorials
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping community forums and resources
+* Case studies of successful startups using Wardley Mapping
+* Wardley Mapping software tools and tutorials

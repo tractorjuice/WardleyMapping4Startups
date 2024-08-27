@@ -1,19 +1,21 @@
 # Navigating Component Evolution in Wardley Mapping for Startups
 
-**Duration:** 3 hours
-**Grade Level:** N/A
+**Duration:** 3 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': 'Analyze the concept of component evolution in Wardley Mapping and its impact on startup strategy', 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate common pitfalls in interpreting component evolution and their potential consequences', 'bloom_level': 'Evaluating'}
-- {'objective': 'Create strategies to accurately assess and respond to component evolution in a startup context', 'bloom_level': 'Creating'}
-- {'objective': 'Apply Wardley Mapping techniques to real-world startup scenarios, focusing on component evolution', 'bloom_level': 'Applying'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze the concept of component evolution in Wardley Mapping and its impact on startup strategy | Analyzing |
+| Evaluate common pitfalls in interpreting component evolution and their potential consequences | Evaluating |
+| Create strategies to accurately assess and respond to component evolution in a startup context | Creating |
+| Apply Wardley Mapping techniques to real-world startup scenarios, focusing on component evolution | Applying |
 
 ## Materials Needed
-- Whiteboard or digital collaboration tool
-- Wardley Mapping templates
-- Case study materials
-- Laptops or tablets for participants
+* Whiteboard or digital collaboration tool
+* Wardley Mapping templates
+* Case study materials
+* Laptops or tablets for participants
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -62,19 +64,19 @@
 **Resources Used:** Assessment sheets with Wardley Maps and related questions
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Ongoing observation and feedback during group activities and discussions', 'alignment': 'Aligns with objectives related to analyzing and evaluating component evolution concepts'}
-- {'type': 'Summative', 'description': "Final assessment requiring analysis of a startup's Wardley Map and identification of potential misinterpretations", 'alignment': 'Aligns with all learning objectives, particularly applying knowledge to real-world scenarios'}
+* **Formative**: Ongoing observation and feedback during group activities and discussions (Alignment: Aligns with objectives related to analyzing and evaluating component evolution concepts)
+* **Summative**: Final assessment requiring analysis of a startup's Wardley Map and identification of potential misinterpretations (Alignment: Aligns with all learning objectives, particularly applying knowledge to real-world scenarios)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice startup founders', 'strategies': 'Provide additional background on Wardley Mapping, offer simplified examples and more guided practice'}
-- {'learner_group': 'Experienced strategists', 'strategies': 'Present more complex scenarios, encourage peer teaching, and provide opportunities for deeper analysis'}
+* **Novice startup founders**: Provide additional background on Wardley Mapping, offer simplified examples and more guided practice
+* **Experienced strategists**: Present more complex scenarios, encourage peer teaching, and provide opportunities for deeper analysis
 
 ## Extension Activities
-- Create a Wardley Map for participants' own startups or projects
-- Conduct a mini-research project on a rapidly evolving technology component
-- Develop a presentation on component evolution for their team or stakeholders
+* Create a Wardley Map for participants' own startups or projects
+* Conduct a mini-research project on a rapidly evolving technology component
+* Develop a presentation on component evolution for their team or stakeholders
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Curated list of startup case studies focusing on strategic pivots and technology adoption
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Curated list of startup case studies focusing on strategic pivots and technology adoption

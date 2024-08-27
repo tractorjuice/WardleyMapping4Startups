@@ -1,21 +1,23 @@
 # Leveraging Wardley Mapping for Successful Startup Pivots
 
-**Duration:** 4 hours
-**Grade Level:** N/A
+**Duration:** 4 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': "Analyze a startup's current market position and value chain using Wardley Mapping", 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate the need for a pivot based on Wardley Map insights', 'bloom_level': 'Evaluating'}
-- {'objective': 'Design alternative business scenarios using Wardley Mapping techniques', 'bloom_level': 'Creating'}
-- {'objective': 'Formulate a pivot strategy based on Wardley Mapping analysis', 'bloom_level': 'Creating'}
-- {'objective': 'Assess the outcomes of a pivot using Wardley Mapping as a measurement tool', 'bloom_level': 'Evaluating'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze a startup's current market position and value chain using Wardley Mapping | Analyzing |
+| Evaluate the need for a pivot based on Wardley Map insights | Evaluating |
+| Design alternative business scenarios using Wardley Mapping techniques | Creating |
+| Formulate a pivot strategy based on Wardley Mapping analysis | Creating |
+| Assess the outcomes of a pivot using Wardley Mapping as a measurement tool | Evaluating |
 
 ## Materials Needed
-- Laptops or tablets with internet access
-- Wardley Mapping software or online tool
-- Whiteboard and markers
-- Printed case study materials
-- Post-it notes and pens
+* Laptops or tablets with internet access
+* Wardley Mapping software or online tool
+* Whiteboard and markers
+* Printed case study materials
+* Post-it notes and pens
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -64,21 +66,21 @@
 **Resources Used:** Peer review rubric, reflection prompts
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of group discussions and Wardley Mapping exercises', 'alignment': 'Assesses ability to apply Wardley Mapping concepts in real-time'}
-- {'type': 'Summative', 'description': 'Evaluation of final pivot strategy and Wardley Maps', 'alignment': 'Measures ability to synthesize learning into a comprehensive pivot plan'}
-- {'type': 'Formative', 'description': 'Peer review of pivot strategies', 'alignment': 'Encourages critical thinking and application of learned concepts to various scenarios'}
+* **Formative**: Observation of group discussions and Wardley Mapping exercises (Alignment: Assesses ability to apply Wardley Mapping concepts in real-time)
+* **Summative**: Evaluation of final pivot strategy and Wardley Maps (Alignment: Measures ability to synthesize learning into a comprehensive pivot plan)
+* **Formative**: Peer review of pivot strategies (Alignment: Encourages critical thinking and application of learned concepts to various scenarios)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice startup founders', 'strategies': 'Provide additional resources on basic business strategy concepts, offer more structured templates for Wardley Mapping exercises'}
-- {'learner_group': 'Experienced business strategists', 'strategies': 'Encourage exploration of advanced Wardley Mapping techniques, provide more complex business scenarios for analysis'}
+* **Novice startup founders**: Provide additional resources on basic business strategy concepts, offer more structured templates for Wardley Mapping exercises
+* **Experienced business strategists**: Encourage exploration of advanced Wardley Mapping techniques, provide more complex business scenarios for analysis
 
 ## Extension Activities
-- Conduct a Wardley Mapping exercise for the learner's own company or a competitor
-- Create a presentation for company leadership on the benefits of Wardley Mapping for strategic planning
-- Develop a Wardley Map-based monitoring system for industry trends
+* Conduct a Wardley Mapping exercise for the learner's own company or a competitor
+* Create a presentation for company leadership on the benefits of Wardley Mapping for strategic planning
+* Develop a Wardley Map-based monitoring system for industry trends
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping community forums
-- Case studies of successful pivots guided by Wardley Mapping
-- Wardley Mapping templates and software recommendations
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping community forums
+* Case studies of successful pivots guided by Wardley Mapping
+* Wardley Mapping templates and software recommendations

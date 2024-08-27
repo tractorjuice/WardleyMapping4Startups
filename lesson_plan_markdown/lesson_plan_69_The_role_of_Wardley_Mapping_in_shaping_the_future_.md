@@ -1,19 +1,21 @@
 # Leveraging Wardley Mapping to Shape the Future of Entrepreneurship
 
-**Duration:** 3 hours
-**Grade Level:** N/A
+**Duration:** 3 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': 'Analyze the potential impact of Wardley Mapping on the future of entrepreneurship', 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate the challenges and opportunities presented by Wardley Mapping for startups', 'bloom_level': 'Evaluating'}
-- {'objective': "Create a Wardley Map to visualize a startup's strategic position and future opportunities", 'bloom_level': 'Creating'}
-- {'objective': 'Synthesize Wardley Mapping principles with other startup methodologies', 'bloom_level': 'Synthesizing'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze the potential impact of Wardley Mapping on the future of entrepreneurship | Analyzing |
+| Evaluate the challenges and opportunities presented by Wardley Mapping for startups | Evaluating |
+| Create a Wardley Map to visualize a startup's strategic position and future opportunities | Creating |
+| Synthesize Wardley Mapping principles with other startup methodologies | Synthesizing |
 
 ## Materials Needed
-- Whiteboard or digital collaborative space
-- Wardley Mapping software or templates
-- Case studies of successful startups using Wardley Mapping
-- Access to online resources on Wardley Mapping
+* Whiteboard or digital collaborative space
+* Wardley Mapping software or templates
+* Case studies of successful startups using Wardley Mapping
+* Access to online resources on Wardley Mapping
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -62,19 +64,19 @@
 **Resources Used:** Action plan template
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of group discussions and Wardley Map creation', 'alignment': 'Assesses ability to apply Wardley Mapping concepts in real-time'}
-- {'type': 'Summative', 'description': "Creation of a Wardley Map for the learner's own startup or business idea", 'alignment': 'Evaluates ability to synthesize learning and apply it to a real-world professional context'}
+* **Formative**: Observation of group discussions and Wardley Map creation (Alignment: Assesses ability to apply Wardley Mapping concepts in real-time)
+* **Summative**: Creation of a Wardley Map for the learner's own startup or business idea (Alignment: Evaluates ability to synthesize learning and apply it to a real-world professional context)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice entrepreneurs', 'strategies': 'Provide additional resources on basic business strategy, offer more structured guidance in mapping exercises'}
-- {'learner_group': 'Experienced business strategists', 'strategies': 'Challenge with complex scenarios, encourage deeper exploration of AI integration and cross-industry applications'}
+* **Novice entrepreneurs**: Provide additional resources on basic business strategy, offer more structured guidance in mapping exercises
+* **Experienced business strategists**: Challenge with complex scenarios, encourage deeper exploration of AI integration and cross-industry applications
 
 ## Extension Activities
-- Participate in a Wardley Mapping community of practice
-- Apply Wardley Mapping to a real business challenge and document the process and outcomes
-- Explore the potential of creating an AI-enhanced Wardley Mapping tool
+* Participate in a Wardley Mapping community of practice
+* Apply Wardley Mapping to a real business challenge and document the process and outcomes
+* Explore the potential of creating an AI-enhanced Wardley Mapping tool
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Research papers on the impact of strategic visualization on startup success
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Research papers on the impact of strategic visualization on startup success

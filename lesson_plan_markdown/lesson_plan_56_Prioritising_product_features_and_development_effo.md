@@ -1,20 +1,22 @@
 # Leveraging Wardley Mapping for Product Feature Prioritization
 
-**Duration:** 4 hours
-**Grade Level:** N/A
+**Duration:** 4 hours **Grade Level:** N/A
 
 ## Learning Objectives
-- {'objective': 'Analyze a product ecosystem using Wardley Mapping to identify core value propositions and component evolution stages', 'bloom_level': 'Analyzing'}
-- {'objective': 'Evaluate product features and development efforts in the context of a Wardley Map', 'bloom_level': 'Evaluating'}
-- {'objective': 'Create a prioritization strategy for product features based on Wardley Mapping insights', 'bloom_level': 'Creating'}
-- {'objective': 'Synthesize Wardley Mapping with other product management techniques for comprehensive decision-making', 'bloom_level': 'Synthesizing'}
+
+| Objective | Bloom's Taxonomy Level |
+|-----------|-------------------------|
+| Analyze a product ecosystem using Wardley Mapping to identify core value propositions and component evolution stages | Analyzing |
+| Evaluate product features and development efforts in the context of a Wardley Map | Evaluating |
+| Create a prioritization strategy for product features based on Wardley Mapping insights | Creating |
+| Synthesize Wardley Mapping with other product management techniques for comprehensive decision-making | Synthesizing |
 
 ## Materials Needed
-- Whiteboard or digital collaborative space
-- Wardley Mapping templates
-- Case study materials
-- Laptops or tablets for participants
-- Product backlog examples
+* Whiteboard or digital collaborative space
+* Wardley Mapping templates
+* Case study materials
+* Laptops or tablets for participants
+* Product backlog examples
 
 ## Lesson Structure
 ### Unnamed Segment
@@ -63,20 +65,20 @@
 **Resources Used:** Reflection prompts, assessment rubric
 
 ## Assessment Methods
-- {'type': 'Formative', 'description': 'Observation of group discussions and Wardley Map creation during the Explore and Elaborate phases', 'alignment': 'Assesses ability to apply Wardley Mapping concepts in a collaborative setting'}
-- {'type': 'Summative', 'description': 'Individual mini-proposal for applying Wardley Mapping to a real or hypothetical product prioritization scenario', 'alignment': 'Evaluates ability to synthesize learning and apply it to a professional context'}
+* **Formative**: Observation of group discussions and Wardley Map creation during the Explore and Elaborate phases (Alignment: Assesses ability to apply Wardley Mapping concepts in a collaborative setting)
+* **Summative**: Individual mini-proposal for applying Wardley Mapping to a real or hypothetical product prioritization scenario (Alignment: Evaluates ability to synthesize learning and apply it to a professional context)
 
 ## Differentiation Strategies
-- {'learner_group': 'Novice product managers', 'strategies': 'Provide additional guidance on Wardley Mapping basics, offer simplified templates and scenarios'}
-- {'learner_group': 'Experienced strategists', 'strategies': 'Present more complex scenarios, encourage deeper analysis of strategic implications'}
+* **Novice product managers**: Provide additional guidance on Wardley Mapping basics, offer simplified templates and scenarios
+* **Experienced strategists**: Present more complex scenarios, encourage deeper analysis of strategic implications
 
 ## Extension Activities
-- Apply Wardley Mapping to a current work project and document the process
-- Create a presentation for colleagues on how to integrate Wardley Mapping into existing prioritization processes
-- Analyze a competitor's product strategy using Wardley Mapping
+* Apply Wardley Mapping to a current work project and document the process
+* Create a presentation for colleagues on how to integrate Wardley Mapping into existing prioritization processes
+* Analyze a competitor's product strategy using Wardley Mapping
 
 ## Additional Resources
-- Simon Wardley's book 'Wardley Maps'
-- Online Wardley Mapping communities and forums
-- Case studies of successful product prioritization using Wardley Mapping
-- Tutorials on advanced Wardley Mapping techniques
+* Simon Wardley's book 'Wardley Maps'
+* Online Wardley Mapping communities and forums
+* Case studies of successful product prioritization using Wardley Mapping
+* Tutorials on advanced Wardley Mapping techniques
